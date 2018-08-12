@@ -3,4 +3,4 @@ nltk
 plotly
 termcolor
 twython
-gunicorn==17.5
+gunicorn==19.5.0
