@@ -1,0 +1,6 @@
+Flask
+nltk
+plotly
+termcolor
+twython
+gunicorn==17.5
